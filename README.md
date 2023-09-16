@@ -20,9 +20,10 @@ GoとReactでサーバー、フロント分離型のtodoアプリを作成。
 - React
 - Next.js
 - TypeScript
+- TailwindCSS
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 </a>
 
 ### Database
